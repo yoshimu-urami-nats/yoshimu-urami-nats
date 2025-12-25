@@ -1,2 +1,2 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=yoshimu-urami-nats&theme=github-dark)
-![Repo Languages](https://github-readme-stats.vercel.app/api/pin/?username=yoshimu-urami-nats&repo=kakeibo-analytics-app)
+![Languages](https://metrics.lecoq.io/yoshimu-urami-nats?template=classic&languages=1&languages.limit=6)
