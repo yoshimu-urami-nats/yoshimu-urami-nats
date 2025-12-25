@@ -9,3 +9,5 @@
 ![C%23](https://img.shields.io/badge/C%23-.NET-purple?logo=csharp)
 ![VBA](https://img.shields.io/badge/VBA-Excel-green?logo=microsoft-excel)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data-yellow?logo=powerbi)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoshimu-urami-nats&show_icons=true&hide_title=true&theme=tokyonight)
