@@ -1,9 +1,11 @@
 ## Tech Stack
-### Data / Backend
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Django](https://img.shields.io/badge/Django-Framework-green?logo=django)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql)
 ![pandas](https://img.shields.io/badge/pandas-Data-purple?logo=pandas)
-
-## Featured Projects
-- Kakeibo Analytics App（Django / pandas）
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5-black?logo=unrealengine)
+![Unity](https://img.shields.io/badge/Unity-2022-black?logo=unity)
+![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
+![C%23](https://img.shields.io/badge/C%23-.NET-purple?logo=csharp)
+![VBA](https://img.shields.io/badge/VBA-Excel-green?logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data-yellow?logo=powerbi)
