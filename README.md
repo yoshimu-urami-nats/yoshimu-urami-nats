@@ -1,7 +1,7 @@
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Django](https://img.shields.io/badge/Django-Framework-green?logo=django)
-![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Analytics-blue?logo=postgresql)
 ![pandas](https://img.shields.io/badge/pandas-Data-purple?logo=pandas)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5-black?logo=unrealengine)
 ![Unity](https://img.shields.io/badge/Unity-2022-black?logo=unity)
