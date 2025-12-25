@@ -11,4 +11,5 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data-yellow?logo=powerbi)
 
 ## GitHub Activity
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoshimu-urami-nats&show_icons=true&hide_title=true)
