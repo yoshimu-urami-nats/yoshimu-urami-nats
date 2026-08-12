@@ -10,21 +10,33 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img
         src="https://streak-stats.demolab.com?user=yoshimu-urami-nats&theme=github-dark"
         width="100%"
       />
     </td>
-    <td align="center" width="50%">
+
+  <td align="center" width="33%">
       <img
         src="https://github-readme-activity-graph.vercel.app/graph?username=yoshimu-urami-nats&theme=tokyo-night&hide_border=true"
         width="100%"
       />
-    </td>
+  </td>
+
+  <td align="center" width="33%">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=yoshimu-urami-nats&layout=compact&theme=tokyonight&hide_border=true"
+        width="100%"
+      />
+  </td>
   </tr>
 </table>
 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00C853,100:00FF88&section=footer"
+  width="100%"
+/>
 
 ---
 
