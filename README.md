@@ -8,33 +8,44 @@
 
 ## 🔥 GitHub Activity
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img
-        src="https://streak-stats.demolab.com?user=yoshimu-urami-nats&theme=github-dark"
-        width="100%"
-      />
-    </td>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=yoshimu-urami-nats&theme=github-dark"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=yoshimu-urami-nats&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
 
-  <td align="center" width="33%">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=yoshimu-urami-nats&theme=tokyo-night&hide_border=true"
-        width="100%"
-      />
-  </td>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yoshimu-urami-nats&theme=tokyo-night&hide_border=true"
+    width="98%"
+  />
+</p>
 
-  <td align="center" width="33%">
-      <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=yoshimu-urami-nats&layout=compact&theme=tokyonight&hide_border=true"
-        width="100%"
-      />
-  </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/yoshimu-urami-nats/yoshimu-urami-nats/gh-pages/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/yoshimu-urami-nats/yoshimu-urami-nats/gh-pages/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/yoshimu-urami-nats/yoshimu-urami-nats/gh-pages/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00C853,100:00FF88&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:00C853,100:00FF88&section=footer"
   width="100%"
 />
 
